@@ -4,4 +4,6 @@
 *.so
 *.dylib
 *.idea
-.bin
+bin/
+.idea/
+
