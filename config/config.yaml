@@ -15,8 +15,8 @@ crawl:
 storage:
   driver: mysql
   user: root
-  password: 54321Ok%$#@!
-  host: 139.199.117.109
+  password: 54321
+  host: 127.0.0.1
   port: 3306
   dbname: crawler
   charset: utf8mb4

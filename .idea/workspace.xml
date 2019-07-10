@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b038670b-9ea5-4fcf-a20f-a56de71220f5" name="Default Changelist" comment="" />
+    <list default="true" id="b038670b-9ea5-4fcf-a20f-a56de71220f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/config/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/config/config.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -170,7 +172,6 @@
         <option value="$PROJECT_DIR$/docs/db.sql" />
         <option value="$PROJECT_DIR$/dao/carwl_rule.go" />
         <option value="$PROJECT_DIR$/dao/dbtest.go" />
-        <option value="$PROJECT_DIR$/config/config.yaml" />
         <option value="$PROJECT_DIR$/dao/db.go" />
         <option value="$PROJECT_DIR$/go.mod" />
         <option value="$PROJECT_DIR$/model/auto_crawl_rule.go" />
@@ -180,6 +181,7 @@
         <option value="$PROJECT_DIR$/dao/crawl_rule.go" />
         <option value="$PROJECT_DIR$/dao/auto_crawl_rule.go" />
         <option value="$PROJECT_DIR$/logic/crawler/work.go" />
+        <option value="$PROJECT_DIR$/config/config.yaml" />
       </list>
     </option>
   </component>
@@ -201,11 +203,6 @@
             <path>
               <item name="jobcrawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="jobcrawler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jobcrawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jobcrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jobcrawler" type="b2602c69:ProjectViewProjectNode" />
@@ -725,7 +722,7 @@
     <entry file="file://$PROJECT_DIR$/config/config.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
