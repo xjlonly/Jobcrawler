@@ -1,0 +1,22 @@
+# http 监听的地址
+http:
+  host: 127.0.0.1
+  port: 9090
+
+#爬虫任务配置信息
+crawl:
+  spec: 0 0 */1 * * ?
+  concurrency_num: 3
+  # 抓取提留时间，避免被封 IP，支持 Duration 格式，比如 20s
+  sleep: 30s
+  parser: colly
+
+#数据库连接信息
+storage:
+  driver: mysql
+  user: root
+  password: 54321Ok%$#@!
+  host: 139.199.117.109
+  port: 3306
+  dbname: crawler
+  charset: utf8mb4
